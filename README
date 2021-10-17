@@ -1,4 +1,7 @@
-This project is my matura paper. In This project I got to know how neural networks function. Furthermore I optimizied a neural Network and I implemented it into a small application. The application is a small game of "Rock, Paper, Scissors". The computer tries to recognize the opponents hand to defeat him everytime.
+This Code is part of my matura project. In this project I got to know how neural networks function.
+Furthermore I optimizied a neural Network and I implemented it into a small application.
+The application is a small game of "Rock, Paper, Scissors". 
+The computer tries to recognize the opponents hand with the help of a neural network to then be able to defeat him everytime.
 
 The Python Code that I use in this project is partially based on the book nnfs.io with the following copyright:
 Copyright © 2020 Sentdex, Kinsley Enterprises Inc., https://nnfs.io
