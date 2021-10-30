@@ -1,4 +1,5 @@
-# Testing Camera to the Model
+# Testing Camera with the Model
+
 import sys
 sys.path.insert(1, 'D:/Colin Berger/Documents/Andere Benutzer/Aloïs/MA_Aloïs/Neural_Network_Github/NNFS')
 
