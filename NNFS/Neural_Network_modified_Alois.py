@@ -1,5 +1,5 @@
 ## Neural_Network_stats
-# Main
+## Main
 
 ## code from NNFS
 ## My own comments are marked with ##
