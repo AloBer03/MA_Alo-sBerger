@@ -2,7 +2,7 @@
 
 import pygame
 from nna import *
-import cv2
+import cv2 # pip install OpenCV
 import os
 import numpy as np
 from pygame import Vector2
