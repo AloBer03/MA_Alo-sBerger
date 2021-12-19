@@ -36,7 +36,7 @@ class Game:
 		self.running = True
 		# Setting up The window
 		self.size = Vector2(800,600)
-		self.window = pygame.display.set_mode(Vector2(800,600))
+		self.window = pygame.display.set_mode(Vector2(800,600)) # it might be only (800,600) instead of Vector2(800,600))
 		# Set Fonts
 		self.hugeFont = pygame.font.SysFont(pygame.font.get_default_font(), 84)
 		self.bigFont = pygame.font.SysFont(pygame.font.get_default_font(), 72)
